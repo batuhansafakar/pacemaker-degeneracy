@@ -2,7 +2,7 @@
 
 **Large-scale computational evidence from a biophysically constrained Hodgkin-Huxley framework**
 
-[![DOI](https://img.shields.io/badge/bioRxiv-DOI_will_be_added -brightgreen)](https://doi.org/10.1101/will_be_added)
+[![DOI](https://img.shields.io/badge/bioRxiv-DOI_will_be_added -brightgreen)](DOI 10.5281/zenodo.19897977)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Preprint
